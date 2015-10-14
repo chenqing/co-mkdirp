@@ -1,0 +1,32 @@
+{
+  "name": "co-mkdirp",
+  "version": "0.1.0",
+  "description": "co based mkdirp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenqing/co-mkdirp.git"
+  },
+  "keywords": [
+    "mkdirp",
+    "co",
+    "promise"
+  ],
+  "author": "chenqing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenqing/co-mkdirp/issues"
+  },
+  "homepage": "https://github.com/chenqing/co-mkdirp#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "chai-as-promised": "^5.1.0",
+    "mocha": "^2.3.3"
+  }
+}
